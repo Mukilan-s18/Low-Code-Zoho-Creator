@@ -11,6 +11,7 @@ A comprehensive collection of hands-on laboratory experiments exploring **Low-Co
 - [About the Course](#-about-the-course)
 - [Tools & Technologies](#-tools--technologies)
 - [Experiments Overview](#-experiments-overview)
+- [End Semester Project Report](#-end-semester-project-report)
 - [Repository Structure](#-repository-structure)
 - [How to Use](#-how-to-use)
 - [Prerequisites](#-prerequisites)
@@ -67,6 +68,26 @@ This repository documents 15 laboratory experiments that cover the full spectrum
 
 ---
 
+## 🏥 End Semester Project Report
+
+| Attribute | Details |
+|---|---|
+| **Project Title** | **Healthcare Clinic and E-Prescription Portal** |
+| **Course** | CB23F35 – Low-Code Application Development using Zoho Creator (2023 Regulations) |
+| **Domain** | Healthcare / Outpatient Clinic Management |
+| **Documentation** | [**`241501123 Project Report.pdf`**](./241501123%20Project%20Report.pdf) (57-Page End Semester Project Report) |
+| **Roll Number** | 241501123 |
+| **Institution** | Rajalakshmi Engineering College (Autonomous), Chennai |
+
+### 🔍 Key Capabilities Implemented:
+- **Patient Registration & Medical Records:** Digital patient profiles with unique health IDs, contact details, and history.
+- **Doctor Consultation & Appointment Scheduling:** Calendar-driven scheduling, token generation, and doctor availability slots.
+- **E-Prescription Management:** Dynamic subform medication builder with dosage instructions, duration, and doctor signatures.
+- **Pharmacy & Drug Inventory Tracking:** Automated stock deduction on medication dispensing and critical reorder threshold alerts.
+- **Role-Based Access Control (RBAC):** Tailored permission profiles for Administrator, Doctor, Receptionist, Pharmacist, and Patient.
+
+---
+
 ## 📁 Repository Structure
 
 ```
@@ -89,8 +110,9 @@ Low-Code-Zoho-Creator/
 ├── 241501123 Exp-13.pdf          # Experiment 13 — Mobile Application Configuration
 ├── 241501123 Exp-14.pdf          # Experiment 14 — Advanced Reporting & Analytics
 ├── 241501123 Exp-15.pdf          # Experiment 15 — Deployment & Publishing
+├── 241501123 Project Report.pdf  # End Semester Project Report — Healthcare Clinic & E-Prescription Portal
 │
-└── README.md                     # This file — project documentation
+└── README.md                     # Project documentation
 ```
 
 ---
